@@ -1,6 +1,7 @@
 # Projecto_19
  
 Análise de Pagamentos Inadimplentes Utilizando Modelos de Machine Learning
+
 Com base no conjunto de dados disponível no UCI Machine Learning Repository, foram analisadas informações sobre pagamentos inadimplentes de clientes de cartão de crédito de Taiwan, abrangendo fatores como dados demográficos, histórico de crédito, pagamentos e extratos no período de abril a setembro de 2005.
 
 O objetivo principal foi desenvolver e avaliar modelos preditivos para identificar clientes inadimplentes, auxiliando na tomada de decisão e na mitigação de riscos financeiros.
